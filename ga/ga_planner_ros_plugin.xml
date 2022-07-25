@@ -1,5 +1,0 @@
- <library path="lib/libga_lib">
-  <class name="GA_planner/GAPlanner" type="GA_planner::GAPlanner" base_class_type="nav_core::BaseGlobalPlanner">
-    <description>This is a GA global planner plugin.</description>
-  </class>
- </library>
