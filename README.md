@@ -42,3 +42,8 @@ roslaunch medibotv4-simulation simulation.launch
 ```shell
 roslaunch medibotv4-simulation multirobot_simulation.launch
 ```
+
+<details>
+<summary>Simulation image</summary>
+<img src="https://github.com/msyahmizulkepli/medibotv4-simulation/blob/main/medibotv4_simulation.png">
+</details>
