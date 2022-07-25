@@ -1,4 +1,4 @@
-# IIUM Medibot v4 simulation
+# IIUM Medibot v4 Simulation
 Simulation of multiple IIUM medibots in Gazebo and Rviz using ROS Melodic with working Genetic Algorithm as path planner
 
 
